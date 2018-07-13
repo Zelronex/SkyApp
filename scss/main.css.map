@@ -1,0 +1,21 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;+CAM+C;AAO/C,0CAA0C;AAQ1C,kCAAkC",
+    "sources": [
+        "main.scss",
+        "base/_variables.scss",
+        "base/_mixins.scss",
+        "base/_normalize.scss",
+        "base/_base.scss",
+        "modules/_Typography.scss",
+        "modules/_blocks.scss",
+        "modules/_buttons.scss",
+        "modules/_sections.scss",
+        "modules/_components.scss",
+        "layouts/_nav.scss",
+        "layouts/_header.scss",
+        "layouts/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
