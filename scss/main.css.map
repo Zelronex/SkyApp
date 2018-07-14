@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAAA;;;;;+CAM+C;AAO/C,0CAA0C;AAQ1C,kCAAkC",
+    "mappings": "AAAA;;;;;;+CAM+C;ACN/C,iBAAiB;AAGjB,sBAAsB;AEHtB,AAAA,EAAE,AAAA,GAAG,AAAA,GAAG,AAAA,GAAG,AAAA,GAAG,CAAA;EACV,UAAU,EAAC,CAAC;CACf;;ACFD,AAAA,IAAI,CAAA;EACA,WAAW,EAAC,UAAU,EAAC,UAAU,CAAA,eAAe,EAAC,UAAU;EAC3D,SAAS,EHDG,IAAI;EGEhB,WAAW,EAAC,KAAK;EACjB,KAAK,EAAC,OAAO;CAChB;;AAGD,AAAA,CAAC,CAAA;EACG,KAAK,EAAC,OACV;CAAC;;AAED,AAAA,EAAE,AAAA,GAAG,CAAA;EACD,UAAU,EAAC,IAAI;CAClB;;AAED,AAAA,KAAK,EAAE,QAAQ,EAAE,MAAM,CAAA;EACnB,aAAa,EAAC,CAAC;CAClB;;AJLD,0CAA0C;AAQ1C,kCAAkC",
     "sources": [
         "main.scss",
         "base/_variables.scss",
@@ -12,9 +12,12 @@
         "modules/_buttons.scss",
         "modules/_sections.scss",
         "modules/_components.scss",
+        "modules/_forms.scss",
         "layouts/_nav.scss",
         "layouts/_header.scss",
-        "layouts/_footer.scss"
+        "layouts/_footer.scss",
+        "layouts/_blog.scss",
+        "layouts/_mobile.scss",
     ],
     "names": [],
     "file": "main.css"

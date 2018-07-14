@@ -2,8 +2,34 @@
 SkyApp Bootstrap sass theme
 Author: Elijah
 Version:0.0.1
-*
+*\
+
 /* BASE - base styles, variables, mixins etc */
+/* Font Colors */
+/*Background colors */
+h1.h2.h3.h4.h5 {
+  margin-top: 0;
+}
+
+body {
+  font-family: "Segoe UI", "segoe WP" "segoe Regular", sans-serif;
+  font-size: 25px;
+  line-height: 1.7em;
+  color: #666666;
+}
+
+a {
+  color: #00aff0;
+}
+
+ul.li {
+  list-style: none;
+}
+
+input, textarea, button {
+  border-radius: 0;
+}
+
 /* MODULES - individual site components */
 /* LAYOUTS - page layout styles */
 /*# sourceMappingURL=main.css.map */
